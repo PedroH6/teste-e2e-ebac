@@ -1,0 +1,26 @@
+[
+    {
+        "nomeProduto": "Atlas Fitness Tank",
+        "tamanho": "S",
+        "Cor":  "Blue",
+        "quantidade": 4
+    },
+    {
+        "nomeProduto": "Aero Daily Fitness Tee",
+        "tamanho": "M",
+        "Cor": "Black",
+        "quantidade": 3
+    },
+    {
+        "nomeProduto": "Arcadio Gym Short",
+        "tamanho": "33",
+        "Cor": "Red",
+        "quantidade": 3
+    },
+    {
+        "nomeProduto": "Ariel Roll Sleeve Sweatshirt",
+        "tamanho": "L",
+        "Cor": "Purple",
+        "quantidade": 3
+    }
+]
